@@ -18,9 +18,9 @@
 <img width="1920" height="1080" alt="Снимок экрана (331)" src="https://github.com/user-attachments/assets/c82e6ddc-e547-4b27-ad9a-91a92c04c443" />
 <img width="1920" height="1080" alt="Снимок экрана (332)" src="https://github.com/user-attachments/assets/6603f524-4421-47f0-8bc1-22021d58fe4d" />
 img width="1920" height="1080" alt="Снимок экрана (334)" src="https://github.com/user-attachments/assets/65e58287-c3e9-4d18-bfdd-a1d79903e5f0" />
-<img width="1920" height="1080" alt="Снимок экрана (335)" src="https://github.com/user-attachments/assets/f00f3003-2e91-4389-8ef7-699c8c8e04e3" />
+
 <img width="1920" height="1080" alt="Снимок экрана (336)" src="https://github.com/user-attachments/assets/9f0f4677-d42d-4a2e-9198-d211251946d5" />
-<img width="1920" height="1080" alt="Снимок экрана (337)" src="https://github.com/user-attachments/assets/acc633de-2532-4049-8491-aeeca3ea8f35" /
+<img width="1920" height="1080" alt="Снимок экрана (337)" src="https://github.com/user-attachments/assets/acc633de-2532-4049-8491-aeeca3ea8f35" />
 
 
 
