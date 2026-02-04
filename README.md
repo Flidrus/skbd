@@ -15,4 +15,5 @@
 ![Результат роботи](https://github.com/Flidrus/skbd/blob/main/screenshot.jpg?raw=true)
 
 ## 📂 Як запустити
-Просто імпортуйте та виконайте файл `skils.sql` у вашому pgAdmin.
+Просто імпортуйте та виконайте файл `skbd.sql` у вашому pgAdmin.
+<img width="1920" height="1080" alt="Снимок экрана (324)" src="https://github.com/user-attachments/assets/a443cec8-0b7a-42c8-b281-ec10d83c5a78" />
